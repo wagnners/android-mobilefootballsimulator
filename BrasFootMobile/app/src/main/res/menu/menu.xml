@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuInicio"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Tela inicial"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuLoja"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Loja"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuTime"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Gerenciar time"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuCampeonato"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Campeonato"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuEstadio"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Gerenciar estadio"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuJogos"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Historico de jogos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuResultados"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Resultados"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuJogador"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Gerenciar jogador"
+        app:showAsAction="never" />
+
+</menu>

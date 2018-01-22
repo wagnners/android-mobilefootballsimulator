@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileFootSim</string>
+    <string name="newgame">Novo jogo</string>
+    <string name="resume">Continuar</string>
+    <string name="salvar">Salvar</string>
+    <string name="time">Time</string>
+    <string name="goleiro">Goleiros</string>
+    <string name="atacantes">Atacantes</string>
+    <string name="meiocampos">Meio Campos</string>
+    <string name="defensores">Defensores</string>
+</resources>
